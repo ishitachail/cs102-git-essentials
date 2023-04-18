@@ -1,0 +1,8 @@
+# Github tools
+
+1. git clone : creates a copy of the repository in your local machine 
+2. git add : Once you have the repository, you can create folders and files in the local repostory folder and then you can stage (add) to the repository
+3. git status : To see the current status of the repository
+4. git commit : current state of the files/folders will be stored in the git repository permanently
+5. git push : Once the changes are committed it can be pushed to the server repository
+   
