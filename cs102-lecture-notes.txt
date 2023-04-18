@@ -1,4 +1,4 @@
-# Github tools
+ Github tools
 
 1. git clone : creates a copy of the repository in your local machine 
 2. git add : Once you have the repository, you can create folders and files in the local repostory folder and then you can stage (add) to the repository
